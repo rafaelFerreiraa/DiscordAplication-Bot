@@ -7,7 +7,7 @@
 
 
 This bot is dedicated to making forms for all new members, first of all remember to watch my videos on my [Channel](https://www.youtube.com/channel/UCU-2xpOBw1TR3ucHIrI0Ytw).
-### Instalação e Configuração
+### Installation and Configuration
 
 To download and install the project you need to have [node] (https://nodejs.org/en/), npm and git installed.
 ```bash
